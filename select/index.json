@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Yokaze",
+  "base_artist": "Lamp",
+  "createdAt": "2026-02-19T18:18:36.578521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yokaze No Shiwaza - Perbuatan Angin Malam",
+      "artist": "JKT48",
+      "has_synced": true,
+      "path": "select/01_Yokaze_No_Shiwaza_-_Perbuatan_Angin_Malam_JKT48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yokaze to Hayabusa",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/02_Yokaze_to_Hayabusa_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yokaze to Hayabusa",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/03_Yokaze_to_Hayabusa_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yokaze",
+      "artist": "HENTAI SHINSHI CLUB",
+      "has_synced": true,
+      "path": "select/04_Yokaze_HENTAI_SHINSHI_CLUB.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yokaze - From THE FIRST TAKE",
+      "artist": "HENTAI SHINSHI CLUB",
+      "has_synced": true,
+      "path": "select/05_Yokaze_-_From_THE_FIRST_TAKE_HENTAI_SHINSHI_CLUB.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yokaze no Shiwaza - พระจันทร์เสี้ยว (Tarwaan's Ver.)",
+      "artist": "Tarwaan BNK48",
+      "has_synced": true,
+      "path": "select/06_Yokaze_no_Shiwaza_-_พระจันทร์เสี้ยว_(Tarwaan's_Ver.)_Tarwaan_BNK48.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yokaze",
+      "artist": "HENTAI SHINSHI CLUB",
+      "has_synced": true,
+      "path": "select/07_Yokaze_HENTAI_SHINSHI_CLUB.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "YOKAZE",
+      "artist": "HENTAI SHINSHI CLUB",
+      "has_synced": true,
+      "path": "select/08_YOKAZE_HENTAI_SHINSHI_CLUB.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Haru Matsu Yokaze",
+      "artist": "Hiroco Momochi",
+      "has_synced": false,
+      "path": "select/09_Haru_Matsu_Yokaze_Hiroco_Momochi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yokaze no Shiwaza",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/10_Yokaze_no_Shiwaza_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yokaze no Shiwaza",
+      "artist": "AKB48 Team B",
+      "has_synced": true,
+      "path": "select/11_Yokaze_no_Shiwaza_AKB48_Team_B.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yokaze",
+      "artist": "Lamp",
+      "has_synced": false,
+      "path": "select/pl_01_Yokaze_Lamp.txt"
+    }
+  ]
+}
